@@ -7,7 +7,7 @@
 
 - **Other source**: https://drive.google.com/drive/folders/1M8k7Y8sxHbQNE5giTZFjLT-WIh_vZpED?usp=sharing
 
-**I.Giới thiệu:**
+**I. Overview:**
 
 MedBook là ứng dụng di động giúp đơn giản hóa quy trình đặt lịch khám bệnh tại bệnh viện.
 
@@ -20,7 +20,7 @@ MedBook là ứng dụng di động giúp đơn giản hóa quy trình đặt l�
 
 Việc số hóa quy trình đăng ký khám bệnh truyền thống giúp giảm thời gian chờ đợi, cải thiện luồng bệnh nhân và nâng cao trải nghiệm dịch vụ y tế cho cả bệnh viện và bệnh nhân. Ngoài ra, còn làm tăng tính chủ động cho bệnh nhân trong việc đặt lịch và quản lý hồ sơ của mình.
 
-**II.Thực hiện:**
+**II. Responsibility:**
 - Phân tích nhu cầu kinh doanh, xác định bài toán và đánh giá quy trình hiện tại.
 - Phân tích quy trình đăng ký khám bệnh hiện tại (As-Is) và đề xuất quy trình đặt lịch trực tuyến mới (To-Be).
 - Xây dựng:
