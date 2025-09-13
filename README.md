@@ -27,7 +27,7 @@ Việc số hóa quy trình đăng ký khám bệnh truyền thống giúp giả
 - Phân tích quy trình đăng ký khám bệnh hiện tại (As-Is) và đề xuất quy trình đặt lịch trực tuyến mới (To-Be).
 - Xây dựng:
   - Context Diagram
-  - Danh sách tính năng MVP
+  - Danh sách tính năng MVP theo giai đoạn
   - Business Rules
 - Thiết kế quy trình End-to-End bằng BPMN cho:
   - Đặt lịch hẹn
